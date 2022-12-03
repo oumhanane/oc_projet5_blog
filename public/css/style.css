@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    height: 350px;
+    background-color: rgb(247, 240, 240);
+}
+
+.titre {
+    text-align: center;
+    font-size: 2em;
+}
+
+.avatar {
+    height: 250px;
+}
+
+.section2 {
+    height: 500px;
+    background-color: antiquewhite;
+}
+
+footer {
+    text-align: center;
+    /* font: white; */
+    background-color: rgb(226, 205, 178);
+    /* height: 70px; */
+
+}
